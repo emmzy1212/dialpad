@@ -1,0 +1,250 @@
+.fun{
+    margin-left: 70px;
+    margin-top: -50px;
+}
+
+.form-control{
+    width: 800px; 
+    margin-left: 220px;
+}
+
+.jon{
+    margin-top: -35px
+}
+
+.navbar-brand{
+    font-size: large;
+}
+
+.container-fluid{
+    margin-left: -25px;
+}
+
+
+
+
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0,0.2);
+    padding: 12px 16px;
+
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+    color: white;
+}
+.sty{
+    background-color: white;
+    height: 400px;
+    padding: 80px;
+    animation: ghu;
+    animation-duration: 6s;
+    
+
+}
+
+
+@keyframes ghu {
+        0%{background-color: #d075c3; left:0px; top:0px}
+        25%{background-color: rgb(101, 152, 210); left:200px; top:0px}
+        50%{background-color: rgb(183, 193, 148); left:200px; top:200px}
+        75%{background-color: rgb(124, 163, 134); left:0px; top:200px }
+        100%{background-color: rgb(93, 131, 160); left: 0px; top:0px }
+    
+}
+
+
+.sty :hover{
+    background-color: blueviolet;
+}
+
+.card :hover{
+    background-color: rgb(129, 105, 169);
+    animation: ghu;
+    animation-duration: 6s;
+    
+
+}
+
+
+@keyframes ghu {
+        0%{background-color: #d075c3; left:0px; top:0px}
+        25%{background-color: rgb(101, 152, 210); left:200px; top:0px}
+        50%{background-color: rgb(183, 193, 148); left:200px; top:200px}
+        75%{background-color: rgb(124, 163, 134); left:0px; top:200px }
+        100%{background-color: rgb(93, 131, 160); left: 0px; top:0px }
+    
+}
+
+.col-6 :hover{
+    background-color: grey;
+    
+
+}
+
+
+.suprt{
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.sup{
+    font-size: x-large;
+    font-weight: bolder;
+
+}
+
+.er{
+     width: 150px; 
+     height: 50px;
+     background-color: rgb(108, 45, 167); 
+     color: white; 
+     border-radius: 30px;
+     margin-left: 500px;
+     
+}
+
+.tu{
+    font-size: large;
+}
+
+.aa {
+  color: black;
+}
+
+.wty{
+    color: black;
+    font-size: larger;
+}
+
+.row{
+    padding: 70px;
+}
+
+.era{
+    width: 270px; 
+    height: 50px;
+    background-color: rgb(108, 45, 167); 
+    color: white; 
+    border-radius: 30px;
+    margin-left: -90px;
+    
+    
+}
+
+
+.ui{
+    font-size: large;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card{
+    padding: 40px;
+    border: none;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+footer :hover{
+    background-color: rgb(246, 249, 252);
+    color: rgb(36, 24, 47);
+}
+
+.era :hover{
+    background-color: rgb(74, 14, 70);
+    
+
+}
+
+.col{
+    box-shadow: 3px 3px 3px 3px rgb(110, 116, 118);
+    animation: dre;
+    animation-duration: 9s;
+    box-shadow: 1px 1px 1px 1px rgb(110, 116, 118);
+}
+
+
+
+@keyframes dre {
+    from{box-shadow: 5px 5px 5px 5px rgb(7, 109, 67);}
+    to{box-shadow: 5px 5px 5px 5px rgb(0, 217, 255);}
+
+ }
+
+
+.card-group{
+    animation: ghu;
+    animation-duration: 6s;
+    
+
+}
+
+
+@keyframes ghu {
+        0%{background-color: #d075c3; left:0px; top:0px}
+        25%{background-color: rgb(101, 152, 210); left:200px; top:0px}
+        50%{background-color: rgb(183, 193, 148); left:200px; top:200px}
+        75%{background-color: rgb(124, 163, 134); left:0px; top:200px }
+        100%{background-color: rgb(93, 131, 160); left: 0px; top:0px }
+    
+}
+
+.ruoo :hover{
+    background-color: blueviolet;
+    
+
+}
+
+.ruoo{
+    margin-left: 1300px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(108, 45, 167);
+    color: white;
+    border-radius: 30px; margin-top: -20px;
+    animation: hu;
+    animation-duration: 6s;
+    
+
+}
+
+
+@keyframes hu {
+        0%{background-color: #d075c3; left:0px; top:0px}
+        25%{background-color: rgb(101, 152, 210); left:200px; top:0px}
+        50%{background-color: rgb(183, 193, 148); left:200px; top:200px}
+        75%{background-color: rgb(124, 163, 134); left:0px; top:200px }
+        100%{background-color: rgb(93, 131, 160); left: 0px; top:0px }
+    
+}
+
+
+
+.ruoo button:hover{
+    background-color: rgb(88, 22, 77);
+    color: white;
+    height: 50px;
+    width: 80px;
+
+}
+
+.d-flex{
+    margin-left: -10;
+}
+
+.svg :hover{
+    background-color: white;
+
+}
